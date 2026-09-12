@@ -1,1 +1,3 @@
-print("Hello from GitHub")
+local a = "Hello"
+local b = "World"
+print(a, b)
